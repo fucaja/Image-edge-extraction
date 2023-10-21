@@ -1,2 +1,2 @@
 # Image-edge-extraction
-Extracting edges in an image.
+Code to extract edges wiht Morgolophic edge extraction
